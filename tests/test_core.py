@@ -21,8 +21,8 @@ def record(**changes):
         claim="The disruptions are centrally coordinated.",
         finding="Available evidence does not establish central coordination.",
         confidence=Confidence.HIGH,
-        evidence_ids=("E-001", "E-002"),
-        source_ids=("S-001",),
+        evidence_ids=("E-000001", "E-000002"),
+        source_ids=("S-000001",),
         created_at="2026-09-25T20:00:00-07:00",
         verified_at="2026-09-25T20:00:00-07:00",
     )
